@@ -9,7 +9,8 @@ Feature: To test checkout feature of eBay on Mobile and UI
       Then I get the search results
       When I select an item
       Then I see the item details page and add item to cart
-      Then I view the cart
+      Then I view the cart 
+      
 
 
   @AddToCart @Smoke @Regression
